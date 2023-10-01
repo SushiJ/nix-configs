@@ -36,7 +36,7 @@
     icon_position = left
     min_icon_size = 0
     max_icon_size = 50
-    icon_path = /usr/share/icons/Papirus-Dark/128x128/
+    icon_path = /home/sushi/.local/share/icons/Papirus-Dark/128x128/
     icon_theme = "Papirus, Adwaita"
     enable_recursive_icon_lookup = true
     sticky_history = yes
@@ -105,7 +105,7 @@
     icon_position = left
     min_icon_size = 0
     max_icon_size = 50
-    icon_path = /usr/share/icons/Papirus-Dark/128x128/
+    icon_path = /home/sushi/.local/share/icons/Papirus-Dark/128x128/
     icon_theme = "Papirus, Adwaita"
     enable_recursive_icon_lookup = true
     sticky_history = yes
